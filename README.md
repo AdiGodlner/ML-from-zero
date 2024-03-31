@@ -1,12 +1,11 @@
 # ML-from-zero
-Implementing ML algorithems without using frame works 
 
+Implementing ML algorithms without using frameworks
 
+---
 
-# TODOs
+## MNIST Digit Classification
 
-- batch binary classifire training 
-- create a multicalssifire based on multiple inary classifires 
-- fix documentation 
-- stop training binar classifires ased on numer of rounds sice last pocket update 
-- make histogram 
+---
+
+Implementing a Perceptron Pocket algorithm, linear and logistic regression to solve the MNIST digit classification problem and analyzing the results in a Jupyter notebook (based on assignment from the Open University of Israel, Course Number: [2092](https://www.openu.ac.il/courses/20942.htm)).
